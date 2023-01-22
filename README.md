@@ -1,4 +1,4 @@
-### Fun fact: The dot over "j" and "i" is called a tittle
+### Fun fact: The dot over "j" and "i" is called "tittle"
 
 <!--
 **LUXISSS/luxisss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
